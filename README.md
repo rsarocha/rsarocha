@@ -1,4 +1,4 @@
-### Hi 👋, my name is Rodrigo Rocha 👋
+### Hi 👋, my name is Rodrigo Rocha
 
 
 
