@@ -7,6 +7,6 @@
 - 👨‍💻 I'm looking for a web developer job
 
 <a href="#" >
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" >
+  <img align="center" heigth="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" >
   
 </a>
