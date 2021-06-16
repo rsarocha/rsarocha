@@ -1,5 +1,5 @@
 <a href="https://giphy.com/"> 
-    <img align="center" height="50" width="60" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/source.gif" target="_blank">
+    <img align="center" height="200" width="200" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/source.gif" target="_blank">
 </a>
 
 ### Hi 👋, my name is Rodrigo Rocha
