@@ -1,6 +1,8 @@
+<a href="https://giphy.com/"> 
+    <img align="center" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/source.gif">
+</a>
+
 ### Hi 👋, my name is Rodrigo Rocha
-
-
 
 - 👨‍🎓 I study development and software.
 - 💻 I’m currently learning web development
@@ -9,5 +11,3 @@
 <a href="https://www.linkedin.com/in/rsarocha-dev/" target="_blank">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
 </a>
-
-
