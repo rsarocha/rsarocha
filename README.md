@@ -1,5 +1,5 @@
 <a href="https://giphy.com/"> 
-    <img align="center" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/source.gif" target="_blank">
+    <img align="center" height="100px" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/source.gif" target="_blank">
 </a>
 
 ### Hi 👋, my name is Rodrigo Rocha
@@ -14,4 +14,4 @@
 
 ## My Skills
 
-### - Front-End <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"> <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+<img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"> <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
