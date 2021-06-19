@@ -1,6 +1,6 @@
 
 <a href="https://giphy.com/"> 
-    <img align="center"  height="200" width="450" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/source.gif" target="_blank">
+    <img height="200" width="450" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/source.gif" target="_blank" align="center">
 </a>
 
 
@@ -22,4 +22,4 @@
 
 ## Toos
 
-<img height="50" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
+<img height="50" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"><img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
