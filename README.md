@@ -1,9 +1,4 @@
 
-<a href="https://giphy.com/"> 
-    <img height="200" width="450" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/source.gif" target="_blank" align="center">
-</a>
-
-
 
 ### Hi 👋, my name is Rodrigo Rocha
 
